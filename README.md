@@ -17,3 +17,25 @@ The bot **automatically fetches market data**, analyzes **price changes**, and g
 ### 1️⃣ Install dependencies  
 ```bash
 pip install requests pandas matplotlib ccxt
+
+2️⃣ Run the script
+bash
+Копировать
+Редактировать
+python main.py
+📈 Example Output
+Exchange	Price (USDT)	Volume (BTC)	Last Updated
+Binance	67230.5	3542.21	15:32:10
+OKX	67195.8	3121.88	15:32:11
+Bybit	67210.2	2987.54	15:32:12
+📌 Volatility Chart for BTC/USDT
+
+🔧 Planned Features & Improvements
+✅ Add Telegram alerts for high volatility spikes
+✅ Support additional exchanges (KuCoin, Kraken, Bitfinex)
+✅ Save historical data in JSON/CSV format
+
+📜 License
+This project is licensed under the MIT License.
+
+🚀 Pull Requests and contributions are welcome!
