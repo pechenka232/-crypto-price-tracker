@@ -1,5 +1,7 @@
 # 📊 Crypto Volatility Tracker  
 
+![Crypto Bot Demo](https://github.com/pechenka232/crypto-volatility-tracker/blob/main/demo.gif)  
+
 This project tracks **prices, volumes, and volatility** of cryptocurrencies on **Binance, OKX, and Bybit**.  
 The bot **automatically fetches market data**, analyzes **price changes**, and generates **volatility charts**.  
 
