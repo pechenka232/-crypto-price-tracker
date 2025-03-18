@@ -19,10 +19,8 @@ The bot **automatically fetches market data**, analyzes **price changes**, and g
 pip install requests pandas matplotlib ccxt
 
 2️⃣ Run the script
-bash
-Копировать
-Редактировать
-python main.py
+
+
 📈 Example Output
 Exchange	Price (USDT)	Volume (BTC)	Last Updated
 Binance	67230.5	3542.21	15:32:10
